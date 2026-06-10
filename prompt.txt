@@ -1,0 +1,20 @@
+Write a 2D graphics editor using * and _.
+
+Write functions to draw a circle, rectangle, line, triangle.
+
+You should be able to add objects to the picture, delete objects from the picture, and modify objects in the picture.
+
+Use a 2D array of characters to store the picture.
+
+Write function to display the picture.
+
+Additionally you can use ncurses package to create menus and draw picture.
+I want all of them in different graphs not colliding and can u like fill the figures with colours.
+The triangle is inverted and circle is not proper circular and none of the figures are filled with colours and line is not drawn.
+Why the fuck is your triangle is inverted.
+Triangle is still inverted.
+I want figures to be located in the middle of the plane.
+Dude triangle and circle are not formed properly.
+Problem Statement: Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas. The canvas should initially be filled with the character _ (underscore), and graphical objects should be drawn using the character * (asterisk).
+
+Write functions to draw a circle, rectangle, line, and triangle. You should be able to add objects to the picture, delete objects from the picture, and modify objects in the picture. Use a 2d array of characters to store the picture. Write a function to display the picture. this is the problem statement ... #include <stdio.h> ... [Code Template Provided] ... and this my code and im ok with the code but it says that i should make and choice and i should choose the coorinates so modify the code according to that but rest off i want the same like same green colour and everything
